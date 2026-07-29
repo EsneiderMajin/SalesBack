@@ -1,0 +1,295 @@
+Listado de rutas de carpetas
+El número de serie del volumen es 000000D9 C2BA:D277
+D:.
+|   estrucuruta.txt
+|   SalesBack.sln
+|   
++---packages
+|   +---Microsoft.AspNet.WebApi.5.2.9
+|   |       .signature.p7s
+|   |       Microsoft.AspNet.WebApi.5.2.9.nupkg
+|   |       NET.icon.png
+|   |       NET_Library_EULA_ENU.txt
+|   |       
+|   +---Microsoft.AspNet.WebApi.Client.5.2.9
+|   |   |   .signature.p7s
+|   |   |   Microsoft.AspNet.WebApi.Client.5.2.9.nupkg
+|   |   |   NET.icon.png
+|   |   |   NET_Library_EULA_ENU.txt
+|   |   |   
+|   |   \---lib
+|   |       +---net45
+|   |       |   |   System.Net.Http.Formatting.dll
+|   |       |   |   System.Net.Http.Formatting.xml
+|   |       |   |   
+|   |       |   \---es
+|   |       |           System.Net.Http.Formatting.resources.dll
+|   |       |           System.Net.Http.Formatting.xml
+|   |       |           
+|   |       +---netstandard2.0
+|   |       |       System.Net.Http.Formatting.dll
+|   |       |       System.Net.Http.Formatting.xml
+|   |       |       
+|   |       \---portable-wp8+netcore45+net45+wp81+wpa81
+|   |               System.Net.Http.Formatting.dll
+|   |               System.Net.Http.Formatting.xml
+|   |               
+|   +---Microsoft.AspNet.WebApi.Client.es.5.2.9
+|   |   |   .signature.p7s
+|   |   |   Microsoft.AspNet.WebApi.Client.es.5.2.9.nupkg
+|   |   |   NET.icon.png
+|   |   |   NET_Library_EULA_ESN.txt
+|   |   |   
+|   |   \---lib
+|   |       \---net45
+|   |           \---es
+|   |                   System.Net.Http.Formatting.resources.dll
+|   |                   System.Net.Http.Formatting.xml
+|   |                   
+|   +---Microsoft.AspNet.WebApi.Core.5.2.9
+|   |   |   .signature.p7s
+|   |   |   Microsoft.AspNet.WebApi.Core.5.2.9.nupkg
+|   |   |   NET.icon.png
+|   |   |   NET_Library_EULA_ENU.txt
+|   |   |   
+|   |   +---Content
+|   |   |       web.config.transform
+|   |   |       
+|   |   \---lib
+|   |       \---net45
+|   |           |   System.Web.Http.dll
+|   |           |   System.Web.Http.xml
+|   |           |   
+|   |           \---es
+|   |                   System.Web.Http.resources.dll
+|   |                   System.Web.Http.xml
+|   |                   
+|   +---Microsoft.AspNet.WebApi.Core.es.5.2.9
+|   |   |   .signature.p7s
+|   |   |   Microsoft.AspNet.WebApi.Core.es.5.2.9.nupkg
+|   |   |   NET.icon.png
+|   |   |   NET_Library_EULA_ESN.txt
+|   |   |   
+|   |   \---lib
+|   |       \---net45
+|   |           \---es
+|   |                   System.Web.Http.resources.dll
+|   |                   System.Web.Http.xml
+|   |                   
+|   +---Microsoft.AspNet.WebApi.WebHost.5.2.9
+|   |   |   .signature.p7s
+|   |   |   Microsoft.AspNet.WebApi.WebHost.5.2.9.nupkg
+|   |   |   NET.icon.png
+|   |   |   NET_Library_EULA_ENU.txt
+|   |   |   
+|   |   \---lib
+|   |       \---net45
+|   |           |   System.Web.Http.WebHost.dll
+|   |           |   System.Web.Http.WebHost.xml
+|   |           |   
+|   |           \---es
+|   |                   System.Web.Http.WebHost.resources.dll
+|   |                   System.Web.Http.WebHost.xml
+|   |                   
+|   +---Microsoft.AspNet.WebApi.WebHost.es.5.2.9
+|   |   |   .signature.p7s
+|   |   |   Microsoft.AspNet.WebApi.WebHost.es.5.2.9.nupkg
+|   |   |   NET.icon.png
+|   |   |   NET_Library_EULA_ESN.txt
+|   |   |   
+|   |   \---lib
+|   |       \---net45
+|   |           \---es
+|   |                   System.Web.Http.WebHost.resources.dll
+|   |                   System.Web.Http.WebHost.xml
+|   |                   
+|   +---Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+|   |   |   .signature.p7s
+|   |   |   Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg
+|   |   |   
+|   |   +---build
+|   |   |   +---net45
+|   |   |   |       Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+|   |   |   |       Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+|   |   |   |       
+|   |   |   \---net46
+|   |   |           Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+|   |   |           Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+|   |   |           
+|   |   +---content
+|   |   |   +---net45
+|   |   |   |       app.config.install.xdt
+|   |   |   |       app.config.uninstall.xdt
+|   |   |   |       web.config.install.xdt
+|   |   |   |       web.config.uninstall.xdt
+|   |   |   |       
+|   |   |   \---net46
+|   |   |           app.config.install.xdt
+|   |   |           app.config.uninstall.xdt
+|   |   |           web.config.install.xdt
+|   |   |           web.config.uninstall.xdt
+|   |   |           
+|   |   +---lib
+|   |   |   \---net45
+|   |   |           Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+|   |   |           Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+|   |   |           
+|   |   \---tools
+|   |       +---net45
+|   |       |       install.ps1
+|   |       |       uninstall.ps1
+|   |       |       
+|   |       +---Roslyn45
+|   |       |       csc.exe
+|   |       |       csc.exe.config
+|   |       |       csc.rsp
+|   |       |       csi.exe
+|   |       |       csi.rsp
+|   |       |       Microsoft.Build.Tasks.CodeAnalysis.dll
+|   |       |       Microsoft.CodeAnalysis.CSharp.dll
+|   |       |       Microsoft.CodeAnalysis.CSharp.Scripting.dll
+|   |       |       Microsoft.CodeAnalysis.dll
+|   |       |       Microsoft.CodeAnalysis.Scripting.dll
+|   |       |       Microsoft.CodeAnalysis.VisualBasic.dll
+|   |       |       Microsoft.CSharp.Core.targets
+|   |       |       Microsoft.DiaSymReader.Native.amd64.dll
+|   |       |       Microsoft.DiaSymReader.Native.x86.dll
+|   |       |       Microsoft.VisualBasic.Core.targets
+|   |       |       System.AppContext.dll
+|   |       |       System.Collections.Immutable.dll
+|   |       |       System.Diagnostics.StackTrace.dll
+|   |       |       System.IO.FileSystem.dll
+|   |       |       System.IO.FileSystem.Primitives.dll
+|   |       |       System.Reflection.Metadata.dll
+|   |       |       vbc.exe
+|   |       |       vbc.exe.config
+|   |       |       vbc.rsp
+|   |       |       VBCSCompiler.exe
+|   |       |       VBCSCompiler.exe.config
+|   |       |       
+|   |       \---RoslynLatest
+|   |               csc.exe
+|   |               csc.exe.config
+|   |               csc.rsp
+|   |               csi.exe
+|   |               csi.exe.config
+|   |               csi.rsp
+|   |               Microsoft.Build.Tasks.CodeAnalysis.dll
+|   |               Microsoft.CodeAnalysis.CSharp.dll
+|   |               Microsoft.CodeAnalysis.CSharp.Scripting.dll
+|   |               Microsoft.CodeAnalysis.dll
+|   |               Microsoft.CodeAnalysis.Scripting.dll
+|   |               Microsoft.CodeAnalysis.VisualBasic.dll
+|   |               Microsoft.CSharp.Core.targets
+|   |               Microsoft.DiaSymReader.Native.amd64.dll
+|   |               Microsoft.DiaSymReader.Native.x86.dll
+|   |               Microsoft.Managed.Core.targets
+|   |               Microsoft.VisualBasic.Core.targets
+|   |               Microsoft.Win32.Primitives.dll
+|   |               System.AppContext.dll
+|   |               System.Collections.Immutable.dll
+|   |               System.Console.dll
+|   |               System.Diagnostics.DiagnosticSource.dll
+|   |               System.Diagnostics.FileVersionInfo.dll
+|   |               System.Diagnostics.StackTrace.dll
+|   |               System.Globalization.Calendars.dll
+|   |               System.IO.Compression.dll
+|   |               System.IO.Compression.ZipFile.dll
+|   |               System.IO.FileSystem.dll
+|   |               System.IO.FileSystem.Primitives.dll
+|   |               System.Net.Http.dll
+|   |               System.Net.Sockets.dll
+|   |               System.Reflection.Metadata.dll
+|   |               System.Runtime.InteropServices.RuntimeInformation.dll
+|   |               System.Security.Cryptography.Algorithms.dll
+|   |               System.Security.Cryptography.Encoding.dll
+|   |               System.Security.Cryptography.Primitives.dll
+|   |               System.Security.Cryptography.X509Certificates.dll
+|   |               System.Text.Encoding.CodePages.dll
+|   |               System.Threading.Tasks.Extensions.dll
+|   |               System.ValueTuple.dll
+|   |               System.Xml.ReaderWriter.dll
+|   |               System.Xml.XmlDocument.dll
+|   |               System.Xml.XPath.dll
+|   |               System.Xml.XPath.XDocument.dll
+|   |               vbc.exe
+|   |               vbc.exe.config
+|   |               vbc.rsp
+|   |               VBCSCompiler.exe
+|   |               VBCSCompiler.exe.config
+|   |               
+|   \---Newtonsoft.Json.13.0.3
+|       |   .signature.p7s
+|       |   LICENSE.md
+|       |   Newtonsoft.Json.13.0.3.nupkg
+|       |   packageIcon.png
+|       |   README.md
+|       |   
+|       \---lib
+|           +---net20
+|           |       Newtonsoft.Json.dll
+|           |       Newtonsoft.Json.xml
+|           |       
+|           +---net35
+|           |       Newtonsoft.Json.dll
+|           |       Newtonsoft.Json.xml
+|           |       
+|           +---net40
+|           |       Newtonsoft.Json.dll
+|           |       Newtonsoft.Json.xml
+|           |       
+|           +---net45
+|           |       Newtonsoft.Json.dll
+|           |       Newtonsoft.Json.xml
+|           |       
+|           +---net6.0
+|           |       Newtonsoft.Json.dll
+|           |       Newtonsoft.Json.xml
+|           |       
+|           +---netstandard1.0
+|           |       Newtonsoft.Json.dll
+|           |       Newtonsoft.Json.xml
+|           |       
+|           +---netstandard1.3
+|           |       Newtonsoft.Json.dll
+|           |       Newtonsoft.Json.xml
+|           |       
+|           \---netstandard2.0
+|                   Newtonsoft.Json.dll
+|                   Newtonsoft.Json.xml
+|                   
+\---SalesBack
+    |   Global.asax
+    |   Global.asax.cs
+    |   packages.config
+    |   SalesBack.csproj
+    |   SalesBack.csproj.user
+    |   Web.config
+    |   Web.Debug.config
+    |   Web.Release.config
+    |   
+    +---App_Data
+    +---App_Start
+    |       WebApiConfig.cs
+    |       
+    +---bin
+    |       Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+    |       Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+    |       Newtonsoft.Json.dll
+    |       System.Net.Http.Formatting.dll
+    |       System.Web.Http.dll
+    |       System.Web.Http.WebHost.dll
+    |       
+    +---Controllers
+    +---Models
+    +---obj
+    |   \---Debug
+    |       |   .NETFramework,Version=v4.8.AssemblyAttributes.cs
+    |       |   build.force
+    |       |   DesignTimeResolveAssemblyReferencesInput.cache
+    |       |   SalesBack.csproj.AssemblyReference.cache
+    |       |   
+    |       \---TempPE
+    \---Properties
+            AssemblyInfo.cs
+            
