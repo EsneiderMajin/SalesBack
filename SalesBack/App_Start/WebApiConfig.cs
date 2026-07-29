@@ -18,7 +18,11 @@ namespace SalesBack
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
+
             );
+            var jsonFormatter = config.Formatters.JsonFormatter;
+            jsonFormatter.SerializerSettings.ContractResolver =
+                new Newtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolver();
         }
     }
 }
