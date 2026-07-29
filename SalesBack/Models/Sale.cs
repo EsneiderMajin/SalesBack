@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace SalesBack.Models
 {
@@ -8,5 +9,8 @@ namespace SalesBack.Models
         public int CustomerId { get; set; }
         public decimal TotalAmount { get; set; }
         public DateTime CreatedAt { get; set; }
+
+        public virtual Customer Customer { get; set; }
+        public virtual ICollection<SaleItem> SaleItems { get; set; }
     }
 }

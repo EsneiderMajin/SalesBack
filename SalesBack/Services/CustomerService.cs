@@ -1,6 +1,9 @@
 using System;
 using System.Collections.Generic;
+using SalesBack.Data;
 using SalesBack.Models;
+using System.Linq;
+
 
 namespace SalesBack.Services
 {
@@ -8,7 +11,11 @@ namespace SalesBack.Services
     {
         public IEnumerable<Customer> GetActiveCustomers()
         {
-            throw new NotImplementedException();
+            using (var db = new SalesDbContext())
+            {
+                return db.Customers.Where(c => c.IsActive).ToList();
+            }
         }
     }
+
 }

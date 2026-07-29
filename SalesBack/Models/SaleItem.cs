@@ -8,5 +8,7 @@ namespace SalesBack.Models
         public int Quantity { get; set; }
         public decimal UnitPrice { get; set; }
         public decimal Subtotal { get; set; }
+
+        public virtual Product Product { get; set; }
     }
 }
