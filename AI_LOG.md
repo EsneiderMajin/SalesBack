@@ -176,7 +176,19 @@ redondeadas (no pill-shaped), sombras sutiles, sensación de panel serio y
 ordenado, no "juguetón". Antes de tocar el CSS, muéstrame la paleta de
 colores exacta que vas a usar (con sus valores hex).
 ```
+### 6. Prompt para crear readme en frontend
 
+```
+Genera el README.md del frontend SalesFront (Angular 6 / Node 10.).
+
+INCLUYE:
+1. Stack
+2. Cómo correrlo: npm install, npx ng serve → http://localhost:4200
+3. Proxy: proxy.conf.json redirige /api/* a http://localhost:63013 (backend)
+4. Pantallas: Crear venta (/) y Detalle venta (/sales/:id)
+5. Decisiones de alcance: sin NgRx, sin interceptor, CSS plano, errorMsg por componente.
+6. Flujo verificado de punta a punta.
+```
 ---
 
 ## Decisiones donde corregí o rechacé una sugerencia de la IA
