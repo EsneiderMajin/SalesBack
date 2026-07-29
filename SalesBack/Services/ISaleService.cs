@@ -4,7 +4,7 @@ namespace SalesBack.Services
 {
     public interface ISaleService
     {
-        SaleDetailResponse CreateSale(CreateSaleRequest request);
+        int CreateSale(CreateSaleRequest request);
         SaleDetailResponse GetSaleById(int id);
     }
 }

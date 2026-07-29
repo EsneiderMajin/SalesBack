@@ -5,7 +5,7 @@ namespace SalesBack.Services
 {
     public class SalesService : ISaleService
     {
-        public SaleDetailResponse CreateSale(CreateSaleRequest request)
+        public int CreateSale(CreateSaleRequest request)
         {
             throw new NotImplementedException();
         }
